@@ -1,0 +1,20 @@
+{
+  "name": "endpoint-telemetry-node",
+  "version": "1.0.0",
+  "description": "Distributed endpoint telemetry runner and synthetic signal aggregator.",
+  "type": "module",
+  "main": "src/telemetry.js",
+  "scripts": {
+    "start": "node src/telemetry.js",
+    "test": "node src/telemetry.js"
+  },
+  "keywords": [
+    "metrics",
+    "telemetry",
+    "latency",
+    "evaluator",
+    "performance"
+  ],
+  "author": "dadasadac6",
+  "license": "MIT"
+}
